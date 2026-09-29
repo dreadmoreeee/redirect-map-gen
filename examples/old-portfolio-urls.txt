@@ -1,0 +1,13 @@
+# Synthetic "old site" for marvin.demarkstudio.ca (these pages never existed there).
+/index.html
+/portfolio.html
+/about.php
+/contact.html
+/projects/demark-studio.php
+/projects/triple_a_woodworks.html
+/blog/stop-form-spam.html
+/blog/auditing-my-sites.html
+/blog/old-post.html
+/services/wordpress-maintenance.html
+/es/index.html
+/es/proyectos.html

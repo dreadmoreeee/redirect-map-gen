@@ -1,0 +1,12 @@
+https://new.example.com/
+https://new.example.com/about-us/
+https://new.example.com/cafe-menu/
+https://new.example.com/team/
+https://new.example.com/shop/widgets/blue-widget/
+https://new.example.com/services/website-design/
+https://new.example.com/blog/
+https://new.example.com/es/
+https://new.example.com/es/nosotros/
+https://new.example.com/es/servicios/diseno-web/
+https://new.example.com/fr/
+https://new.example.com/fr/a-propos/

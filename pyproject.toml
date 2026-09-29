@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "redirect-map-gen"
+version = "1.0.0"
+description = "Build a redirect map for a site migration (old URLs -> new URLs with a confidence score), turn it into Caddy, nginx, Apache, Netlify or Cloudflare rules, and verify it live."
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Marvin Palencia"}]
+requires-python = ">=3.10"
+dependencies = []
+keywords = ["redirects", "301", "site migration", "seo", "sitemap", "caddy", "nginx", "htaccess", "netlify", "cloudflare"]
+classifiers = ["Programming Language :: Python :: 3", "License :: OSI Approved :: MIT License", "Topic :: Internet :: WWW/HTTP :: Site Management"]
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[project.scripts]
+redirect-map-gen = "redirect_map_gen.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/dreadmoreeee/redirect-map-gen"
+Author = "https://marvin.demarkstudio.ca"
+
+[tool.setuptools]
+packages = ["redirect_map_gen"]

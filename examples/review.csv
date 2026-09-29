@@ -1,0 +1,13 @@
+old_url,new_url,confidence,method,status,notes
+/index.html,https://marvin.demarkstudio.ca/,0.95,slug,ok,/index.html -> /
+/portfolio.html,https://marvin.demarkstudio.ca/,0.10,home,review,"no equivalent page; home suggested, but search engines treat that as a soft 404: set status=gone for a 410 if the content is gone"
+/about.php,https://marvin.demarkstudio.ca/,0.10,home,review,"no equivalent page; home suggested, but search engines treat that as a soft 404: set status=gone for a 410 if the content is gone"
+/contact.html,https://marvin.demarkstudio.ca/,0.10,home,review,"no equivalent page; home suggested, but search engines treat that as a soft 404: set status=gone for a 410 if the content is gone"
+/projects/demark-studio.php,https://marvin.demarkstudio.ca/work/demark-studio/,0.85,slug-last,ok,same page name in a different directory
+/projects/triple_a_woodworks.html,https://marvin.demarkstudio.ca/work/triple-a-woodworks/,0.85,slug-last,ok,same page name in a different directory
+/blog/stop-form-spam.html,https://marvin.demarkstudio.ca/work/stopping-form-spam/,0.45,similar,review,path similarity 0.50
+/blog/auditing-my-sites.html,https://marvin.demarkstudio.ca/work/auditing-my-own-sites/,0.49,similar,review,path similarity 0.54
+/blog/old-post.html,https://marvin.demarkstudio.ca/,0.10,home,review,"no equivalent page; home suggested, but search engines treat that as a soft 404: set status=gone for a 410 if the content is gone"
+/services/wordpress-maintenance.html,https://marvin.demarkstudio.ca/,0.10,home,review,"no equivalent page; home suggested, but search engines treat that as a soft 404: set status=gone for a 410 if the content is gone"
+/es/index.html,https://marvin.demarkstudio.ca/es/,0.95,slug,ok,/es/index.html -> /es/
+/es/proyectos.html,https://marvin.demarkstudio.ca/es/,0.10,home,review,"no equivalent page; home suggested, but search engines treat that as a soft 404: set status=gone for a 410 if the content is gone"

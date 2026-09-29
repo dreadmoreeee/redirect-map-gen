@@ -1,0 +1,13 @@
+# Old site (paths only)
+/index.html
+/about-us.php
+/caf%C3%A9-menu.html
+/Our_Team.htm
+/products/blue-widget.php
+/services/web-design.html
+/es/index.html
+/es/sobre-nosotros.html
+/es/diseno-web.asp
+/fr/a-propos.html
+/blog/old-news.html
+/careers.html
